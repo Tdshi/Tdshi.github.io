@@ -9,7 +9,7 @@ May 2023-Aug2023
 •	Demonstrated exceptional negotiation skills by engaging with customers to discern their specific needs and recommend appropriate waterworks and irrigation solutions.  
 •	Prepared and handled shipments with precision and efficiency, ensuring timely deliveries while managing in-process inventory to meet operational demands.   
   
-###Aga Khan University - Accounting Summer Student  
+Aga Khan University - Accounting Summer Student  
 London, UK  
 May 2024-Aug 2025  
 •	Assisted in preparing and reviewing of key financial statements, including income statements, balance sheets and cashflow reports.   
