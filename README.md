@@ -1,4 +1,4 @@
-# Tadashi Lyon
+
 Student, University of Calgary
 
 ### Education 
