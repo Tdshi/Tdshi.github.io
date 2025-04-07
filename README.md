@@ -1,5 +1,6 @@
 ### Education 
-University of Calgary - Economics             Sep 2022 ~ Present
+University of Calgary, Economics  
+Sep 2022 - Current  
 
 ### Work Experience
 EMCO Waterworks - Supply Chain and Logistics Summer Student  
