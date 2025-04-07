@@ -1,6 +1,4 @@
 
-Student, University of Calgary
-
 ### Education 
  University of Calgary - Economics             Sep 2022 ~ Present
 
