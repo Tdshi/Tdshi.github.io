@@ -3,7 +3,3 @@ logo: assets/headshot_circle.png
 description: Placeholder
 show_downloads: true
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-include-cache
-include:
-  - assets/css/custom.css
