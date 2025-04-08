@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
+
 ### Education 
 University of Calgary, Economics  
 Sep 2022 - Current  
