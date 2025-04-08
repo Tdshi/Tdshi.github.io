@@ -1,4 +1,5 @@
 title: Tadashi Lyon
+  include: [custom.css]
 logo: assets/headshot_circle.png
 description: Placeholder
 show_downloads: true
