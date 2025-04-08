@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/assets/css/custom.css">
-
 
 ### Education 
 University of Calgary, Economics  
